@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://television-internet.com.ar/america-tv.jpg" ,AMERICA TV
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2bd76571-5cca-4634-a285-affe1769c3c5:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/767_N24TV.png", N24TV
+https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8
+
+
+#EXTINF:-1 ,TNT USA (NBA)
+http://nba.cdncrack.gq/live/1/playlist.m3u8
+
+#EXTINF:-1 ,TNT SPORTS
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_2756.m3u8
+
+#EXTINF:-1 ,TNT SPORTS 2
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_628.m3u8
+
+#EXTINF:-1 ,TNT SPORTS 3
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_1756.m3u8
+
+
+
+#EXTINF:-1 ,TNT SPORTS 4
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_2756.m3u8
+
+#EXTINF:-1 ,TNT SPORTS 5
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_2756.m3u8
+
+#EXTINF:-1 ,TNT SPORTS 6
+https://vod.livestreamapis.com/60b3251a_e1a6d524d1f0721ceabe00d6b6109c31ad8f6d1e/events/00000000009395dd/f1229a11-6a72-4cdf-a9f4-7cac83e29764_5256.m3u8
+
+
+#EXTINF:-1 ,TyC
+https://playback2.akamaized.net/streams/27014129_8167338_lsi0b9zfb768k8qn5jq_1/exp=1622418207~acl=%2f*~data=hdntl~hmac=7382a7be3ebfc77f9c1928fb9dece4e79bd6728cdd1396c9a35ad8ab30cab2b7/media/27014129_8167338_lsi0b9zfb768k8qn5jq_1@2756000p.m3u8
+
+#EXTINF:-1 ,TNT
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/index_240_av-b.m3u8
+
+#EXTINF:-1 ,DIRECTV SPORTS
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=directv&f=.m3u8
+
+#EXTINF:-1 ,DIRECTV SPORTS +
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=directvplus&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS PREMIUM MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsportp&f=.m3u8
+
+#EXTINF:-1 ,CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=claro&f=.m3u8
+
+#EXTINF:-1 ,ESPN MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn1mx&f=.m3u8
+
+#EXTINF:-1 ,ESPN 2 MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn2mx&f=.m3u8
+
+#EXTINF:-1 ,ESPN 3 MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1 ,ESPN EXTRA MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espnextramx&f=.m3u8
+
+#EXTINF:-1 ,ESPN DEPORTES MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=espndep&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport1mx&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 2 MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport2mx&f=.m3u8
+
+#EXTINF:-1 ,FOX SPORTS 3 MX
+http://ipeteve.com/php/SR_REGIO_0966/regio22.php?c=foxsport3mx&f=.m3u8
+
+#EXTINF:-1 ,FOX PREMIUM ARG
+https://content-asae1-up-2.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8
